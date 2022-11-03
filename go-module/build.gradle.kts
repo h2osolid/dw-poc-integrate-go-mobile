@@ -1,2 +1,2 @@
 configurations.maybeCreate("default")
-artifacts.add("default", file("foo.aar"))
+artifacts.add("default", file("golib.aar"))
